@@ -34,3 +34,10 @@ Fringe Network将结合SGX和区块链技术，使可信计算更加强大，并
 FringeNetwork将在链上和链下建立可信的计算功能，并在保护数据隐私和安全的前提下支持联合计算和交易。并使其可以覆盖整个网络的安全传输通道，以确保任务的安全调度和计算。构建下一代分布式可信计算平台，为区块链技术和可信计算技术注入新的活力。
 
 ![a](https://github.com/redsniperlily/fringenetwork.github.io/blob/master/resource/微信图片_20200409112049.png)
+
+Fringe Network is a distributed trusted computing power network, which gathers trusted computing power from all over the world. Fringe Network will provide trusted computing PaaS services for blockchain, Internet of Things, cloud computing and other industries. Fringe Network will build a Web3.0 trusted network, which can Provide blockchain trusted computing infrastructure.
+
+Fringe Network是一个分布式的可信算力网络，汇聚了来自全球的可信算力，为区块链、物联网、云计算等行业提供可信计算PaaS服务，为建设Web3.0可信网络提供区块链可信计算基础设施。
+
+website: [wefringe.com](wefringe.com)  
+官网： [wefringe.com](wefringe.com)
